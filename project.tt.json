@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "Canned-Music-Taro",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
